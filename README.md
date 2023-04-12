@@ -28,4 +28,4 @@ This repository stores the code responsible for training and validating a machin
 ![image](https://user-images.githubusercontent.com/118120048/203473828-05e3a774-e46b-4f84-85dd-5f1474cd7a00.png)
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
+If you wish to hire us, please contact us at the following e-mail address: t3.aila.dev@gmail.com
