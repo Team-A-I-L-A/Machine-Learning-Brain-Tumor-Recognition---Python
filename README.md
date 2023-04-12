@@ -1,10 +1,14 @@
 # Machine Learning Brain Tumor Recognition - Python
 This repository stores the code responsible for training and validating a machine learning model to recognize brain tumors in MRI (magnetic resonance imaging) scans. In addition to the graphical user interface that uses this artificial intelligence model to show the user if there is a tumor or not, in addition to showing a possible location in one of the lobes of the brain.
 
-## Author 👤
+## Lead Engineers 👤
 **Luis Ángel Sánchez Aguilar**
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+**Roger Aldo Acosta Baltodano**
+
+* [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
 ## Folders description 📁
 
@@ -24,4 +28,4 @@ This repository stores the code responsible for training and validating a machin
 ![image](https://user-images.githubusercontent.com/118120048/203473828-05e3a774-e46b-4f84-85dd-5f1474cd7a00.png)
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
+If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
